@@ -119,8 +119,4 @@ key": "dbln",
         "value": "v2%3Bclient_version%3A2733%3Btimestamp%3A1738744301",
         "domain": "facebook.com",
         "path": "/",
-        "hostOnly": false,
-        "creation": "2025-02-05T08:31:54.716Z",
-        "lastAccessed": "2025-02-05T08:31:54.716Z"
-    }
-]
+        "hostOnly": false
